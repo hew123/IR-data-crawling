@@ -1,0 +1,101 @@
+ID,Restaurant,Price,Price2,Number,Type,Image
+1,Amélie,$$,2,4.5 star rating,French,https://s3-media1.fl.yelpcdn.com/bphoto/cSDgVuPMnJgMLTrTNSEXug/348s.jpg
+2,Upstate,$$,2,4.5 star rating,Seafood,https://s3-media3.fl.yelpcdn.com/bphoto/RvnUVU7MF7DT0RzNL-EebQ/348s.jpg
+3,The Boil,$$,2,4.5 star rating,"Cajun,Seafood",https://s3-media3.fl.yelpcdn.com/bphoto/Y8Zgcd9DTKb_MGfjSBbh3g/348s.jpg
+4,LoveMama,$$,2,4 star rating,"Thai,Malaysian,Vietnamese",https://s3-media4.fl.yelpcdn.com/bphoto/VUZKcwpdMpDRUuh-2A4XPA/348s.jpg
+5,Burger & Lobster,$$,2,4 star rating,"Seafood,Burgers",https://s3-media1.fl.yelpcdn.com/bphoto/LLteoVFm9lUAJI0thmMZiA/348s.jpg
+6,Uglyduckling,$$,2,4 star rating,American(Traditional),https://s3-media4.fl.yelpcdn.com/bphoto/zo96XEmO2i-KtBs0_5pQyA/348s.jpg
+7,Jacob’s Pickles,$$,2,4 star rating,"Comfort Food, Southern, American (Traditional)",https://s3-media4.fl.yelpcdn.com/bphoto/VW8dpBkC3dzTZEV_AAGIkA/348s.jpg
+8,Boucherie West Village,$$$,3,4.5 star rating,"French, Cocktail Bars, Steakhouses",https://s3-media2.fl.yelpcdn.com/bphoto/-5TXMVrjARsqKQHDg-hKbQ/348s.jpg
+9,Ipanema Restaurant,$$,2,4 star rating,"Brazilian, Latin American, Portuguese ",https://s3-media2.fl.yelpcdn.com/bphoto/p7A065ZhtvsgsnVEaOfMuQ/348s.jpg
+10,Aunt Jake’s,$$,2,4 star rating,"Italian, Wine Bars, Pasta Shops ",https://s3-media3.fl.yelpcdn.com/bphoto/hMhn_lnES3QWc4Gtihvr0A/348s.jpg
+11,Trattoria Trecolori,$$,2,4 star rating,Italian,https://s3-media3.fl.yelpcdn.com/bphoto/G8vBgHxbEfoONO0JpLX3Qw/348s.jpg
+12,Silver Factory,$$,2,4.5 star rating,"Korean, Bars",https://s3-media4.fl.yelpcdn.com/bphoto/jTUCcGJiZZPLlEmx0EHgXg/348s.jpg
+13,Sugar Momma,$$,2,4.5 star rating,"Cocktail Bars, Tapas/Small Plates, Asian Fusion",https://s3-media1.fl.yelpcdn.com/bphoto/QRqgz-TUyQ1viy3pVLwF2g/348s.jpg
+14,Han Dynasty,$$,2,4 star rating,Chinese,https://s3-media1.fl.yelpcdn.com/bphoto/HGbPK1KN__zc5_KvlQtlqA/348s.jpg
+15,Bea,$$,2,4 star rating,"American (New), Cocktail Bars",https://s3-media1.fl.yelpcdn.com/bphoto/YoqmIVkroKVE97b5AHMJfQ/348s.jpg
+16,Cafe Mogador,$$,2,4.5 star rating,Moroccan,https://s3-media2.fl.yelpcdn.com/bphoto/KiBcaarxxiQuvyyszASx8A/348s.jpg
+17,nonono,$$,2,4 star rating,"Tapas/Small Plates, Izakaya, Ramen",https://s3-media3.fl.yelpcdn.com/bphoto/yhZYzx5cnn8SFFF8eZdRHw/348s.jpg
+18,Joe’s Shanghai,$$,2,4 star rating,"Shanghainese, Seafood",https://s3-media1.fl.yelpcdn.com/bphoto/ekUo5egd4dlE7zJyb4-Leg/348s.jpg
+19,Fishmarket Restaurant,$$,2,4.5 star rating,"Seafood, Chinese, Asian Fusion ",https://s3-media4.fl.yelpcdn.com/bphoto/BxY50B6ntFYQa8COuI1Fog/348s.jpg
+20,Carmine’s Italian Restaurant - Times Square,$$,2,4 star rating,"Italian, Caterers, Venues & Event Spaces",https://s3-media1.fl.yelpcdn.com/bphoto/0UszeEYPWI-RIk0Ak6HtVQ/348s.jpg
+21,Root & Bone,$$,2,4 star rating,"Southern, Comfort Food, Desserts",https://s3-media2.fl.yelpcdn.com/bphoto/2WM96Qsx-7o11LNp1Lin9A/348s.jpg
+22,Jajaja,$$,2,4.5 star rating,"Mexican, Vegan, Bars ",https://s3-media2.fl.yelpcdn.com/bphoto/QaIhCEp1FpU3a2teWQh6mA/348s.jpg
+23,Thai Villa,$$,2,4.5 star rating,Thai,https://s3-media2.fl.yelpcdn.com/bphoto/VJtRGawhvkw8gTaaRY9yfQ/348s.jpg
+24,Raku,$$,2,4.5 star rating,"Japanese, Noodles",https://s3-media1.fl.yelpcdn.com/bphoto/gCGZAxUZlxegudhRxrd-Yw/348s.jpg
+25,Alta,$$$,3,4 star rating,"Tapas Bars, Mediterranean, Spanish",https://s3-media3.fl.yelpcdn.com/bphoto/DZV9lbeHQz-YctEvr6mWig/348s.jpg
+26,Les Enfants de Boheme,$$,2,4.5 star rating,"French, Cocktail Bars, Wine Bars ",https://s3-media2.fl.yelpcdn.com/bphoto/I1V4kucJO69x8L8UhDwiiA/348s.jpg
+27,Juliana’s Pizza,$$,2,4.5 star rating,Pizza,https://s3-media2.fl.yelpcdn.com/bphoto/7JtwTxhWHf3YS70Ss_CfxA/348s.jpg
+28,Balzem,$$,2,4 star rating,"Mediterranean, Tapas/Small Plates, Wine Bars ",https://s3-media3.fl.yelpcdn.com/bphoto/h3NWzD0mw_JJ8F03XowUaA/348s.jpg
+29,Ippudo NY,$$,2,4 star rating,Ramen,https://s3-media3.fl.yelpcdn.com/bphoto/dqjGk3X9wt_gaszKSNgijA/348s.jpg
+30,Chow House,$$,2,4.5 star rating,"Chinese, Noodles, Soup",https://s3-media1.fl.yelpcdn.com/bphoto/kzeClsI9_2tkHqKScotx1Q/348s.jpg
+31,Pio Pio 8,$$,2,4 star rating,"Latin American, Peruvian",https://s3-media4.fl.yelpcdn.com/bphoto/DPb5L3Jkd8kTprg8gYsnEg/348s.jpg
+32,Supper,$$,2,4 star rating,Italian,https://s3-media4.fl.yelpcdn.com/bphoto/f8Y7A9-5pZuPFhLJLx9ApA/348s.jpg
+33,La Sirene,$$$,3,4.5 star rating,French,https://s3-media3.fl.yelpcdn.com/bphoto/RsDpYmM0azJa4f7cot5Z0g/348s.jpg
+34,Rubirosa,$$,2,4 star rating,"Italian, Pizza ",https://s3-media1.fl.yelpcdn.com/bphoto/LuSzR8cpVQRofXOT_bMi1A/348s.jpg
+35,TONCHIN NEW YORK,$$,2,4.5 star rating,"Ramen, Izakaya ",https://s3-media3.fl.yelpcdn.com/bphoto/EA5igkg5gxqHxDcM4YA6hA/348s.jpg
+36,Blue Ribbon Brasserie - SoHo,$$$,3,4.5 star rating,"American (Traditional), Cocktail Bars ",https://s3-media3.fl.yelpcdn.com/bphoto/OMYqqgQ-ioT7bCP82xvJDA/348s.jpg
+37,Clinton Street Baking Company,$$,2,4 star rating,"Bakeries, Breakfast & Brunch, American (Traditional) ",https://s3-media3.fl.yelpcdn.com/bphoto/DWHdizJ9bKbXN4yq6nbwAA/348s.jpg
+38,Takashi,$$$,3,4 star rating,"Japanese, Korean, Barbeque ",https://s3-media1.fl.yelpcdn.com/bphoto/HNIAUmwyy2mTkbVfTH7EaQ/348s.jpg
+39,Verlaine,$$,2,4 star rating,"Tapas/Small Plates, Lounges, Cocktail Bars ",https://s3-media2.fl.yelpcdn.com/bphoto/vGCwhlu808jSfaN-n03jMg/348s.jpg
+40,Soco,$$,2,4 star rating,"Cajun/Creole, Barbeque, Soul Food",https://s3-media4.fl.yelpcdn.com/bphoto/nLKKfPQU7t6wiZ0f-pQFDg/348s.jpg
+41,Pig and Khao,$$,2,4 star rating,"Filipino, Thai, Asian Fusion",https://s3-media4.fl.yelpcdn.com/bphoto/bV_sHIsR3MFmclD63AmwKA/348s.jpg
+42,Vanessa’s Dumpling House,$,1,4 star rating,Chinese,https://s3-media1.fl.yelpcdn.com/bphoto/Wk4E_T07HyAZl0dNB1cEFQ/348s.jpg
+43,Ippudo Westside,$$,2,4 star rating,Ramen ,https://s3-media1.fl.yelpcdn.com/bphoto/EmJBZo1FvHemEBgyJknEOQ/348s.jpg
+44,Jongro BBQ,$$,2,4 star rating,"Korean, Barbeque, Beer Bar ",https://s3-media3.fl.yelpcdn.com/bphoto/zTVtLZtqwAFqYPXwuk1t5w/348s.jpg
+45,Jack the Horse Tavern,$$$,3,4 star rating,"American (New), Bars ",https://s3-media2.fl.yelpcdn.com/bphoto/bBcZj7gSfZFZgp4gUY9uCA/348s.jpg
+46,Wok Wok,$$,2,4 star rating,"Chinese, Malaysian, Thai ",https://s3-media2.fl.yelpcdn.com/bphoto/6oKmNAJiYRln7GNXhf2lsg/348s.jpg
+47,SalaThai Restaurant,$$,2,4.5 star rating,Thai,https://s3-media1.fl.yelpcdn.com/bphoto/mcv_CB9pzfZf2GBYmTl9kQ/348s.jpg
+48,Olio e Piú,$$,2,4 star rating,"Pizza, Italian, Breakfast & Brunch ",https://s3-media1.fl.yelpcdn.com/bphoto/l4peUZMi7CLFcG3w3jnYvQ/348s.jpg
+49,IL Brigante,$$,2,4 star rating,Italian ,https://s3-media3.fl.yelpcdn.com/bphoto/Qk5GDAERuUt9cd25PZhQTw/348s.jpg
+50,Yaso Tangbao,$$,2,4 star rating,Shanghainese,https://s3-media2.fl.yelpcdn.com/bphoto/AKGztA9MXJM3Ykd8Ofm36Q/348s.jpg
+51,Prince Street Pizza,$,1,4.5 star rating,"Pizza, Italian ",https://s3-media2.fl.yelpcdn.com/bphoto/ZAukOyv530w4KjOHC5YY1w/348s.jpg
+52,The Islands,$$,2,4.5 star rating,Caribbean ,https://s3-media4.fl.yelpcdn.com/bphoto/eEQ3bLkWhPSIvJBIpazk2w/348s.jpg
+53,Ugly Kitchen,$$,2,4 star rating,"Bars, Asian Fusion, Filipino ",https://s3-media1.fl.yelpcdn.com/bphoto/opwIJJQFpG-9v4jbZtTyzw/348s.jpg
+54,Boucherie Union Square,$$$,3,4.5 star rating,"Steakhouses, French, Cocktail Bars ",https://s3-media3.fl.yelpcdn.com/bphoto/WqE28syOIIYrYBrmJ_4g3g/348s.jpg
+55,Chouchou,$$$,3,4 star rating,"Moroccan, Mediterranean",https://s3-media3.fl.yelpcdn.com/bphoto/ZL95xTxTtgL26_vu-AqNXA/348s.jpg
+56,Jin Ramen,$$,2,4 star rating,Ramen,https://s3-media3.fl.yelpcdn.com/bphoto/xHJbolUgTh-MTlc0qHOmww/348s.jpg
+57,Faro ,$$$,3,4 star rating,Italian,https://s3-media1.fl.yelpcdn.com/bphoto/uE_e7ROScbFLYLN2TVVViQ/348s.jpg
+58,Ducks Eatery,$$,2,4 star rating,"French, Cajun/Creole, American (Traditional) ",https://s3-media1.fl.yelpcdn.com/bphoto/CGyhcngYafmUgFQvfVGq1g/348s.jpg
+59,Clay Pot NYC,$$,2,4.5 star rating,Chinese,https://s3-media3.fl.yelpcdn.com/bphoto/Yc-ELtx7TEEQRQ3Vs__6oQ/348s.jpg 
+60,Sakagura,$$$,3,4 star rating,Japanese,https://s3-media2.fl.yelpcdn.com/bphoto/CdaAyPg71oF7eEayxx6Fbg/348s.jpg
+61,Noodle Pudding,$$,2,4 star rating,Italian,https://s3-media2.fl.yelpcdn.com/bphoto/o5ygMLdH6f5XVONTb3msMg/348s.jpg
+62,Buvette,$$,2,4 star rating,"French, Wine Bars, Cocktail Bars",https://s3-media4.fl.yelpcdn.com/bphoto/G-ryPuMwaPmdquoUyN3Mrw/348s.jpg
+63,Okonomi,$$,2,4.5 star rating,"Japanese, Seafood",https://s3-media3.fl.yelpcdn.com/bphoto/lDdAgme3TXkVjN_s-H3N8A/348s.jpg
+64,Cheeky Sandwiches,$,1,4.5 star rating,"Sandwiches, Desserts",https://s3-media2.fl.yelpcdn.com/bphoto/XGGQOLhQIL-Y8Y-CdHeOPg/348s.jpg
+65,DOMODOMO,$$$,3,4.5 star rating,"Japanese, Sushi Bars",https://s3-media2.fl.yelpcdn.com/bphoto/6pJRtg2Mm7lpYWMu4dsflg/348s.jpg
+66,Traif,$$$,3,4.5 star rating,"American (New), Tapas/Small Plates",https://s3-media2.fl.yelpcdn.com/bphoto/_srdk7UPM4mShxAIqm9aqg/348s.jpg
+67,Soba-ya,$$,2,4 star rating,"Japanese, Noodles",https://s3-media3.fl.yelpcdn.com/bphoto/p2DDV5zcIhxtHP0YhQdW2Q/348s.jpg
+68,Lucali,$$,2,4.5 star rating,Pizza,https://s3-media4.fl.yelpcdn.com/bphoto/zpy57jW_kDZjQdbtIVRx_g/348s.jpg
+69,Breakroom,$$,2,4.5 star rating,"Burgers, Tacos",https://s3-media3.fl.yelpcdn.com/bphoto/l-b4gVi5G7xOBQ60QdctVA/348s.jpg
+70,Habana Outpost,$$,2,4 star rating,Cuban,https://s3-media4.fl.yelpcdn.com/bphoto/x8QauLx_mfCLinCC_O7f5g/348s.jpg
+71,Jora Restaurant & Bar,$$,2,4.5 star rating,"Peruvian, Cocktail Bars, Tapas Bars",https://s3-media1.fl.yelpcdn.com/bphoto/Fzckhw-nQGKVyBUKmsIfMA/348s.jpg
+72,Baron’s,$$,2,4.5 star rating,"American (New), Bars, Seafood",https://s3-media2.fl.yelpcdn.com/bphoto/oGiUuxyQ1Ju_tzls6CDApQ/348s.jpg
+73,Cock & Bull,$$,2,4 star rating,"British, Pubs, Gastropubs",https://s3-media4.fl.yelpcdn.com/bphoto/08aEUhjcoi6LjHmX5N4Jsw/348s.jpg
+74,Shinka Ramen & Sake Bar,$$,2,4.5 star rating,"Ramen, Noodles, Cocktail Bars",https://s3-media3.fl.yelpcdn.com/bphoto/OhCiMfdEez72ng-DliTAaw/348s.jpg
+75,Kopitiam,$,1,4 star rating,"Ramen, Noodles, Cocktail Bars",https://s3-media3.fl.yelpcdn.com/bphoto/NGu52ghjQIm0XPW0DnTYiw/348s.jpg
+76,Freemans,$$,2,4 star rating,"Breakfast & Brunch, Lounges, American (Traditional)",https://s3-media3.fl.yelpcdn.com/bphoto/4Njogrk-E7xeV7gwsnyayg/348s.jpg
+77,The Flying Cock,$$,2,4 star rating,"Pubs, Breakfast & Brunch",https://s3-media4.fl.yelpcdn.com/bphoto/3YlRSHL1Lja7Ke0ptnxLIQ/348s.jpg
+78,Tableside Italian Cook Shoppe,$$,2,4.5 star rating,Italian,https://s3-media3.fl.yelpcdn.com/bphoto/24beNDvjJ3pE3WLbBnDIFw/348s.jpg
+79,XYST,$$,2,4.5 star rating,"Vegan, Mediterranean, Vegetarian",https://s3-media2.fl.yelpcdn.com/bphoto/WCXwLfFIOkAcRrcWjQUD1w/348s.jpg
+80,The Smith,$$,2,4 star rating,"American (New), Breakfast & Brunch, Cocktail Bars",https://s3-media2.fl.yelpcdn.com/bphoto/fGAZCdyPI8qil5boCzidBA/348s.jpg
+81,Maharlika,$$,2,4 star rating,Filipino,https://s3-media4.fl.yelpcdn.com/bphoto/PRB5IIpLRcUzdXEUxUMQcQ/348s.jpg
+82,Buttermilk Channel,$$,2,4 star rating,"American (New), Breakfast & Brunch",https://s3-media2.fl.yelpcdn.com/bphoto/veEU8n3he4hWvlyzMo8YAQ/348s.jpg
+83,Antica Ristorante,$$$,3,4.5 star rating,Italian,https://s3-media2.fl.yelpcdn.com/bphoto/MSeI-fJTVY6McI4yPwEZcw/348s.jpg
+84,Rabbithole Restaurant,$$,2,4 star rating,"American (New), Breakfast & Brunch, Cocktail Bars",https://s3-media1.fl.yelpcdn.com/bphoto/IDs9nOfcEsxFvz-RKRS7wg/348s.jpg
+85,AlMar,$$,2,4 star rating,"Italian, Breakfast & Brunch, Cocktail Bars",https://s3-media3.fl.yelpcdn.com/bphoto/TTzeaitXeXWX0MBzLun3xw/348s.jpg
+86,CAVA,$$,2,4.5 star rating,Mediterranean,https://s3-media2.fl.yelpcdn.com/bphoto/T0l0zGQwyhKCx-k_KwfTLw/348s.jpg
+87,Top Thai Greenwich,$$,2,4.5 star rating,"Cocktail Bars, Thai, Halal",https://s3-media1.fl.yelpcdn.com/bphoto/4xK8iIj2rZrRvP9MMG7yOA/348s.jpg
+88,Rabbit House,$$,2,4.5 star rating,"Tapas Bars, Asian Fusion, Izakaya",https://s3-media1.fl.yelpcdn.com/bphoto/EuXzyRAH6gEsO3PTpIYCdQ/348s.jpg
+89,Coppelia,$$,2,4 star rating,Cuban,https://s3-media4.fl.yelpcdn.com/bphoto/EA3d3YvjMyKQq_lU0aWN1A/348s.jpg
+90,Baba’s Pierogies,$$,2,4.5 star rating,"Modern European, Slovakian",https://s3-media4.fl.yelpcdn.com/bphoto/LpSQQDCxYapJWk065wJjCQ/348s.jpg
+91,Kiki’s,$$,2,4 star rating,"Greek, Mediterranean",https://s3-media2.fl.yelpcdn.com/bphoto/jn9LYl_wzUxPemfZ7niymQ/348s.jpg
+92,Momofuku Ssam Bar,$$$,3,4 star rating,American (New),https://s3-media2.fl.yelpcdn.com/bphoto/MYZDLkpmA5MkWvnjIBNVeg/348s.jpg
+93,Gelso & Grand,$$,2,4.5 star rating,"Italian, Pasta Shops, Pizza",https://s3-media1.fl.yelpcdn.com/bphoto/GJKnTiGtwaMmt9jwBTrQqA/348s.jpg
+94,Hometown Bar-B-Que,$$,2,4 star rating,"Barbeque, Smokehouse",https://s3-media3.fl.yelpcdn.com/bphoto/Eo9NJvaF8j9HLa0GX9yNUA/348s.jpg
+95,Claw Daddy’s,$$,2,4 star rating,"Cajun/Creole, Seafood",https://s3-media4.fl.yelpcdn.com/bphoto/RCru71cTtO-TtqRw50rc2w/348s.jpg
+96,Dim Sum Palace,$$,2,4 star rating,"Dim Sum, Cantonese",https://s3-media4.fl.yelpcdn.com/bphoto/IsgY0alj9ZfW7jFagj8dQg/348s.jpg
+97,Madame Vo,$$,2,4 star rating,Vietnamese,https://s3-media1.fl.yelpcdn.com/bphoto/QW1d0s0K1ywyMn4srNOvZw/348s.jpg
+98,Calle Ocho,$$,2,4 star rating,"Cuban, Latin American",https://s3-media3.fl.yelpcdn.com/bphoto/_GMEdZAu02AJZHvrZv2dIA/348s.jpg
+99,Scarpetta,$$$,3,4 star rating,Italian,https://s3-media4.fl.yelpcdn.com/bphoto/MuSpWrm8AmcalPlKf9gBQg/348s.jpg
+100,Champs Diner,$$,2,4 star rating,"Vegan, Bakeries, Diners",https://s3-media1.fl.yelpcdn.com/bphoto/INyUknFimeygXBIJbMxNOA/348s.jpg
